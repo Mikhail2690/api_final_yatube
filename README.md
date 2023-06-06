@@ -110,3 +110,4 @@ GET .../api/v1/groups/2/
     "description": "Посты на тему математики"
 }
 ```
+Автор: [Федоренко Михаил](https://github.com/Mikhail2690/)
